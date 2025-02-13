@@ -1,0 +1,10 @@
+x = str(5)
+y = int("10")
+z = float("15.5")
+
+print(x)
+print(y)
+print(z)
+print(type(x))
+print(type(y))
+print(type(z))
