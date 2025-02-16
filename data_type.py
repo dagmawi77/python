@@ -15,6 +15,7 @@ J= 10
 n={"apple", "banana", "cherry"}
 o=frozenset({"apple", "banana", "cherry"})
 p=None
+q=range(6)
 print(J)
 print(a)
 print(b)
@@ -32,6 +33,7 @@ print(m)
 print(n)
 print(o)
 print(p)
+print(q)
 print(type(a))
 print(type(b))
 print(type(c))
@@ -48,6 +50,7 @@ print(type(m))
 print(type(n))
 print(type(o))
 print(type(p))
+print(type(q))
 
 # Explanation: In Python, variables do not need explicit declaration to reserve memory space. The declaration happens automatically when you assign a value to a variable. The equal sign (=) is used to assign values to variables.
 # The operand to the left of the = operator is the name of the variable and the operand to the right of the = operator is the value stored in the variable.
