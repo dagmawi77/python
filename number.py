@@ -40,6 +40,9 @@ print(type(x))
 print(type(y))
 print(type(z))
 # = Type Conversion
+x = 1    # int
+y = 2.8  # float
+z = 1j   # complex
 a = float(x)
 b= int(y)
 c = complex(z)
