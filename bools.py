@@ -28,3 +28,14 @@ class myclass():
 myobj=myclass()
 print(bool(myobj))
 print(bool(myobj.__len__()))
+
+def myFunction():
+    return True
+print(myFunction())
+
+if myFunction():
+    print("YES!")
+else:
+    print("NO!")
+
+
