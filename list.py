@@ -35,4 +35,7 @@ thisistuple=("Gomen","Gomen Tibs","Gomen Besiga")
 mylist.extend(thisistuple)
 print(mylist)
 mylist.remove("Gomen")
-print(mylist)   
+print(mylist)
+#remove the First index   
+mylist.pop(1)
+print(mylist)
