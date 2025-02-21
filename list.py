@@ -39,3 +39,9 @@ print(mylist)
 #remove the First index   
 mylist.pop(1)
 print(mylist)
+del mylist[0]
+print(mylist)
+# del mylist
+# print(mylist) #NameError: name 'mylist' is not defined
+mylist.clear()
+print(mylist)
