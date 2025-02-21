@@ -7,3 +7,6 @@ for x in vegitable:
 
 print(vegitable)
 print(ovegitable)
+
+newlist=[x for x in vegitable if "x" in x]
+print(newlist)
