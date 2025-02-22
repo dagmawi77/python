@@ -21,6 +21,8 @@ insensitive = ["banana", "Orange", "Kiwi", "cherry"]
 
 insensitive.sort()
 print(insensitive)
+insensitive.reverse()
+print(insensitive)
 
 insensitive.sort(key=str.lower)
 print(insensitive)
