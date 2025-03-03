@@ -37,3 +37,12 @@ if "model" in thisdict:
 thisdict.update({"year":2005})
 
 print(x)
+
+# add Iteams In dictionary
+#first Method 
+
+thisdict["price"]=3000000.00
+print(x)
+
+thisdict.update({"engine type":"V8"})
+print(x)
