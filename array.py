@@ -10,3 +10,4 @@ carname.pop(1)
 print(carname)
 carname.remove("Volvo")
 print(carname)
+#array
