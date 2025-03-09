@@ -11,6 +11,7 @@ print(f"his name is {p1.name} and his age is {p1.age}")
 class Person1:
   #self is instance of the class
   def __init__(self,name,age):
+      #object definition 
     self.name=name
     self.age=age
   def __str__(self):
