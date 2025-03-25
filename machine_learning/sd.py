@@ -3,3 +3,9 @@ speed = [32,111,138,28,59,77,97]
 
 x= num.std(speed)
 print(x)
+
+#speed = [32,111,138,28,59,77,97]
+
+x = num.var(speed)
+
+print(x)
