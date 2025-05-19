@@ -41,3 +41,4 @@ mycursor.executemany(sql, val)
 mydb.commit()
 
 print(mycursor.rowcount, "was inserted.")
+print("1 record inserted, ID:", mycursor.lastrowid)
