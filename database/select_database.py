@@ -13,3 +13,6 @@ myresult = mycursor.fetchall()
 for x in myresult:
     print(x)
 # print(myresult)
+
+myresult = mycursor.fetchone()
+print(myresult)
