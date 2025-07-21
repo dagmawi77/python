@@ -17,3 +17,5 @@ isEmpity = not bool(stack)
 print("Is Stack Empty:", isEmpity)
 
 print("the Length of the stack is :" , len(stack))
+
+
