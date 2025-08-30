@@ -17,3 +17,5 @@ y = num.array([10,30,25,45])
 
 py.barh(x,y,color="red")
 py.show()
+
+print("New file")
