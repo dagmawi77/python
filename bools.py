@@ -37,6 +37,7 @@ if myFunction():
     print("YES!")
 else:
     print("NO!")
+    print("NO!")
 
 x=500
 
